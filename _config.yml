@@ -1,5 +1,5 @@
-url: https://shepherd-robot.github.io/sairsas.github.io/
-baseurl: sairsas.github.io/sairsas.github.io/
+url: https://shepherd-robot.github.io
+baseurl: /sairsas.github.io/
 
 # Site settings
 title: Awesome Title
