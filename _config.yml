@@ -2,16 +2,16 @@ url: https://shepherd-robot.github.io
 baseurl: /sairsas.github.io/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: International Autumn School on AI and Robotics for Sustainable Agricultural Systems (SAIRSAS 2023)
+email: lidia.sanchez@unileon.es
+description: "Web of the International Autumn School on AI and Robotics for Sustainable Agricultural Systems (SAIRSAS 2023) SAIRSAS 2023"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Francisco J. Rodríguez Lera
   pic: 1
-  position: Lead Designer
+  position: Organizer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Lidia Sánchez González
   pic: 2
-  position: Lead Marketer
+  position: Organizer
   social:
     - title: twitter
       url: #
@@ -31,34 +31,34 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/RoboticaUnileon
+  - title: instagram
+    url: https://www.instagram.com/roboticaunileon/
+  - title: web
+    url: https://robotica.unileon.es/index.php?title=Home
+  - title: shepher-robot 
+    url: https://robotica.unileon.es/projects/shephered_robot/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/uleroboticsgroup
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Grupo de Robótica
+  - line: Universidad de León
 
 # Build settings
 markdown: kramdown
