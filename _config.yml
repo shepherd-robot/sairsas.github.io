@@ -2,9 +2,9 @@ url: https://shepherd-robot.github.io
 baseurl: /sairsas.github.io/
 
 # Site settings
-title: International Autumn School on AI and Robotics for Sustainable Agricultural Systems (SAIRSAS 2023)
+title: SAIRSAS 2023
 email: lidia.sanchez@unileon.es
-description: "Web of the International Autumn School on AI and Robotics for Sustainable Agricultural Systems (SAIRSAS 2023) SAIRSAS 2023"
+description: "Web of the International Autumn School on AI and Robotics for Sustainable Agricultural Systems (SAIRSAS 2023)"
 
 
 # Team names, titles and social links
@@ -29,18 +29,18 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://es.linkedin.com/in/lidia-s%C3%A1nchez-gonz%C3%A1lez-773b65213
 
-#- name: Diana Petersen
-#  pic: 3
-#  position: Lead Developer
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
+- name: Vicente Matellán
+  pic: 3
+  position: Organizer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,9 +48,9 @@ social:
     url: http://twitter.com/RoboticaUnileon
   - title: instagram
     url: https://www.instagram.com/roboticaunileon/
-  - title: web
-    url: https://robotica.unileon.es/index.php?title=Home
-  - title: shepher-robot 
+  - title: linkedin
+    url: https://es.linkedin.com/company/grupo-robotica-unileon
+  - title: google-plus 
     url: https://robotica.unileon.es/projects/shephered_robot/
   - title: github
     url: https://github.com/uleroboticsgroup
