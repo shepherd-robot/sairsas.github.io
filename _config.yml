@@ -13,21 +13,17 @@ people:
   pic: 1
   position: Organizer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: google-plus
+      url: https://robotica.unileon.es/lera/
+    - title: linkedin
+      url: https://es.linkedin.com/in/franciscolera
 
 - name: Lidia Sánchez González
   pic: 2
   position: Organizer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: google-plus
+      url: https://portalcientifico.unileon.es/investigadores/97428/detalle
     - title: linkedin
       url: https://es.linkedin.com/in/lidia-s%C3%A1nchez-gonz%C3%A1lez-773b65213
 
@@ -35,12 +31,10 @@ people:
   pic: 3
   position: Organizer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: google-plus
-      url: #
+      url: https://portalcientifico.unileon.es/investigadores/96990/detalle
+    - title: linkedin
+      url: https://es.linkedin.com/in/vmatellan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
