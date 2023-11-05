@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Luis Emmi
+subtitle: Computer vision for cropping
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: 3.png
+thumbnail: 3.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The vision system installed on an autonomous tractor as part of the RHEA project (Robot Fleets for Highly Effective Agriculture and Forestry Management) is introduced. This system incorporates various artificial vision techniques designed for real-time identification of crop rows and weeds in a cornfield. The focus of this research is on the precise detection of crop rows, enabling the tractor to achieve reliable guidance without relying on global positioning systems (GPS). This advancement is crucial to prevent crop damage and unwanted overlap in treatment areas. Within the context of this work, a detailed explanation of how the crop rows are identified and the process ensuring the tractor stays on the correct path will be provided. Furthermore, the prototype of the installed system will be presented, along with details of the tests conducted in a real field environment. This advancement in vision technology represents a significant milestone in agricultural automation and has the potential to substantially enhance efficiency and sustainability in crop management.		
 
 ---

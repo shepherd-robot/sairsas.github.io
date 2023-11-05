@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Beatriz Remeseiro
+subtitle: Semantic segmentation
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: 4.png
+thumbnail: 4.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:  Semantic segmentation is a cutting-edge computer vision technique that involves the assignment of a label to every pixel in an image, categorizing each pixel to represent the object or class it belongs to. Over the last few years, it has found numerous applications across various domains, including agriculture. In this presentation, we will provide an in-depth overview of semantic segmentation, its fundamental principles, and some state-of-the-art deep learning methods used in the field. We will also discuss the challenges and opportunities in implementing semantic segmentation for problems such as crop monitoring or disease detection, showcasing real-world examples that can revolutionize the agricultural sector by increasing efficiency, sustainability, and productivity.
 
 ---
