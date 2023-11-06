@@ -1,6 +1,6 @@
 ---
 title: Luis Emmi
-subtitle: Computer vision for cropping
+subtitle: Intelligent controllers and autonomous navigation in agricultural environments WeLASER project case study
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: The vision system installed on an autonomous tractor as part of the RHEA project (Robot Fleets for Highly Effective Agriculture and Forestry Management) is introduced. This system incorporates various artificial vision techniques designed for real-time identification of crop rows and weeds in a cornfield. The focus of this research is on the precise detection of crop rows, enabling the tractor to achieve reliable guidance without relying on global positioning systems (GPS). This advancement is crucial to prevent crop damage and unwanted overlap in treatment areas. Within the context of this work, a detailed explanation of how the crop rows are identified and the process ensuring the tractor stays on the correct path will be provided. Furthermore, the prototype of the installed system will be presented, along with details of the tests conducted in a real field environment. This advancement in vision technology represents a significant milestone in agricultural automation and has the potential to substantially enhance efficiency and sustainability in crop management.		
+description: Intelligent controllers and autonomous navigation systems are promoting the inclusion of robotic systems in agriculture, redefining the way that crop management, yield optimization, and resource utilization are executed. This presentation explores the integration of intelligent controllers and autonomous navigation emphasizing their potential to enhance reliability, efficiency, sustainability, and productivity. Intelligent controllers, often based on Artificial Intelligence and Machine Learning, offer data-driven decision-making capabilities that enable real-time assessment of crop status, pest infestations, and environmental conditions. This presentation also addresses the inclusion of intelligent controllers and autonomous navigation capabilities in the WeLASER mobile platform. The project "Sustainable Weed Management in Agriculture with Laser-based Autonomous Tools (WeLASER)", funded by the European Union's Horizon 2020 research and innovation program under grant agreement No 101000256, aims to merge current technologies to build, assess and push into the market a precision weeding equipment based on high-power laser sources and autonomous mobile systems with the main objective of eliminating the use of herbicides while improving productivity and competitiveness.		
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beatriz Remeseiro
-subtitle: Semantic segmentation
+subtitle: Semantic segmentation - overview and applications to agriculture
 layout: default
 modal-id: 4
 date: 2014-07-15
