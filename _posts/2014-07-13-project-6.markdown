@@ -1,6 +1,6 @@
 ---
 title: Georgios Ouzonis
-subtitle: Satellite image
+subtitle: Atlas of Human Settlements - a use case in monitoring infrastructure
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Satellite image.
+description: The Atlas of Human Settlements is a built-up basemap of global coverage, delivered at 10m spatial resolution and updated annually, with legacy layers since 2016. It consists of a number of semantic layers imprinting key attributes describing settlement extent and fabric. Using state-of-the-art AI and open-access data we transform these features into actionable socioeconomic indicators such as the asset wealth index and the spending power index, or use them in advanced data science workflows that present us with insights into the living conditions, health, demographics, transportation patterns, economic activity, development trends and more. These are key indicators allowing us to sketch the greater picture and get a more holistic view of any habituated environment across the world. AHS powers many different applications and finds extensive use in monitoring supply chains. Extending this to the agricultural sector, it can be seen as an instrument reporting the presence and sufficiency of storage facilities and processing plants, while forecasting infrastructure demand for the immediate future. Paired with recommender systems it helps identify optimal locations for new investment with an interest in improving the farmer to seller process while minimizing transportation time and cost, and associated carbon emissions. This talk will focus on the core AHS layers and services, demonstrate uses in monitoring supply chain infrastructure and further discuss extensions to the agricultural sector.
 
 ---
