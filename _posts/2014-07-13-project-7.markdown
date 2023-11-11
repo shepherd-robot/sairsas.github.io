@@ -1,0 +1,15 @@
+---
+title: Francisco Martín Rico
+subtitle: Nav2 - Concepts, Design, and adaptation to outdoor environments
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: 7.png
+thumbnail: 7.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Navigation is one of the fundamental capabilities of a mobile robot, having been the subject of studies for many decades. Still, few frameworks survive a concrete robot, a specific laboratory, or the project/paper for which it was developed. With the advent of ROS over a decade ago, Move Base, and now with ROS 2, Nav2, have established frameworks that standardize a solution for navigation applicable to all types of robots. In this talk, we will see the design fundamentals and main concepts of Nav2, and we will take a tour of its real use in indoor and outdoor environments through our projects, experiments, and papers.
+
+---

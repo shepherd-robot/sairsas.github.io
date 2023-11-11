@@ -1,6 +1,6 @@
 ---
 title: Aamir Ahmad
-subtitle: Robotics
+subtitle: Intelligent Aerial Robots for biodiversity conservation
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use of robotics in outdoors.
+description: Some of the most pertinent societal problems today include i) biodiversity monitoring over huge spatio-temporal scales to empirically quantify the impact of climate change, ii) search-and-rescue in the aftermath of natural disasters, and iii) large-scale sustainable agriculture. The spatial and temporal scales combined with different levels of resolution required to address these challenges make them particularly difficult. For example, position of animals need to be monitored over hundreds of kilometers and for several months to understand their migratory patterns. Low-resolution position estimates of the animals will suffice in this case. However, to understand an individual's behavior, a high-resolution estimate of the animal's pose may be required. In this talk, I will elaborate on how my research on intelligent aerial robots aims to address such challenges. I will discuss how vision-based active perception in aerial robotic systems is key to solving these problems. In particular, first, I will present novel methods based on both classical and deep-learning for human pose and animal behavior estimation from a team of autonomous aerial robots. Second, I will discuss the novel aerial robots we have developed to address further practical and logistic challenges involved in real-world deployment. Third, I will describe our ongoing, large-scale, animal conservation-related project. Finally, I will highlight many of our real-world experiments and demonstrations.
 
 ---
